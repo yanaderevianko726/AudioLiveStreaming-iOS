@@ -1,0 +1,2 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FRadioPlayer.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IMSegmentPageView.framework

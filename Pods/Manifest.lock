@@ -1,0 +1,20 @@
+PODS:
+  - FRadioPlayer (0.1.19)
+  - IMSegmentPageView (1.0.2)
+
+DEPENDENCIES:
+  - FRadioPlayer
+  - IMSegmentPageView
+
+SPEC REPOS:
+  trunk:
+    - FRadioPlayer
+    - IMSegmentPageView
+
+SPEC CHECKSUMS:
+  FRadioPlayer: 626ffefdd3d77b8737f9f907cc335a09f9016895
+  IMSegmentPageView: a641381bd409df0c4e1e0c6644c3253a58b830cf
+
+PODFILE CHECKSUM: 7ff282c4470cab605f75e4033d689864c6ec39d2
+
+COCOAPODS: 1.8.4

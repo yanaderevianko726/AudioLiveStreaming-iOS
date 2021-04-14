@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>laradiosv.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>67ED0C06888E8780649FD741CC96EA7B52116D49</string>
+				<key>dateExpires</key>
+				<string>12/16/20</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>67ED0C06888E8780649FD741CC96EA7B52116D49</string>
+						<key>dateExpires</key>
+						<string>12/16/20</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>FRadioPlayer.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>Z2A45QA2Y2</string>
+						<key>name</key>
+						<string>Jesper Andersen</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>67ED0C06888E8780649FD741CC96EA7B52116D49</string>
+						<key>dateExpires</key>
+						<string>12/16/20</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>IMSegmentPageView.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>Z2A45QA2Y2</string>
+						<key>name</key>
+						<string>Jesper Andersen</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Z2A45QA2Y2.com.JesperAndersen.PartyFM</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Z2A45QA2Y2</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>Z2A45QA2Y2.com.JesperAndersen.PartyFM</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>PartyFM.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f44de669-1441-4533-8c7f-7ae5a4102522</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.JesperAndersen.PartyFM</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Z2A45QA2Y2</string>
+				<key>name</key>
+				<string>Jesper Andersen</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
